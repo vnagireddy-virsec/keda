@@ -39,7 +39,7 @@ To learn more about our roadmap, we recommend reading [this document](ROADMAP.md
 
 ### Improvements
 
-- TODO ([#XXX](https://github.com/kedacore/keda/issue/XXX))
+- **TriggerAuthentication:** Provide support for specifying identity to use for Azure managed identity auth ([#2656](https://github.com/kedacore/keda/issues/2656))
 
 ### Deprecations
 
