@@ -28,7 +28,7 @@ spec:
           command:
           - keda
           args:
-          - '--zap-level=info'
+          - '--zap-level=debug'
           - '--zap-time-encoding=epoch'
           imagePullPolicy: Always
           env:
